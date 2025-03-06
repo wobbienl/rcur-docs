@@ -26,6 +26,7 @@
 * [Follow-ups API](follow-ups-api/README.md)
   * [List follow-ups](follow-ups-api/list-follow-ups.md)
   * [Get follow-up](follow-ups-api/get-follow-up.md)
+  * [Update follow-up](follow-ups-api/update-follow-up.md)
 * [Orders API](orders-api/README.md)
   * [List orders](orders-api/list-orders.md)
   * [Get order](orders-api/get-order.md)
